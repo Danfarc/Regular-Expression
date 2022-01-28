@@ -6,6 +6,7 @@ Coincidencias Basicas
 \W      - No es un Caracter de Palabra.
 \s      - Espacios de cualquier tipo. (espacio, tab, nueva linea)
 \S      - No es un Espacio, Tab o nueva linea.
+\z      - afirma la posición al final de la cadena
 
 Limites
 \b      - Limite de Palabra
